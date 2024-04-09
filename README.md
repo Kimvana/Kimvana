@@ -1,4 +1,4 @@
-[![Kim's GitHub Banner](./banner.png)]
+![Kim's GitHub Banner](./banner.png)
 
 ### Hello! 👋
 
